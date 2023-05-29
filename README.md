@@ -1,1 +1,1 @@
-# FreeWay-Alura
+# FreeWay-JavaScript-Alura
